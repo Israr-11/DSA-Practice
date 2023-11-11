@@ -14,7 +14,6 @@ def bubble_sort(elements):
         if not swapped:
             break
 
-
 if __name__ == '__main__':
     #elements = [5,9,2,1,67,34,88,34]
     elements = [1,2,3,4,2]
@@ -22,3 +21,7 @@ if __name__ == '__main__':
 
     bubble_sort(elements)
     print("Sorted strings array is as:",elements)
+
+
+
+    
